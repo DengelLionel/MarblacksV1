@@ -131,15 +131,12 @@
           "show_track_order_header": true,
           "rastreiopage": "rastrear-pedido",
           "selector_style_search_icon": "style_2",
-          "logo": "shopify:\/\/shop_images\/Logo_Marblacks_V2.svg",
           "logo_max_width": 300,
           "mobile_logo_max_width": 170,
           "barraimg_top": false,
-          "barraimg_bottom": true,
+          "barraimg_bottom": false,
           "bgimg": "#000000",
-          "imgpc": "shopify:\/\/shop_images\/Agregar_un_titulo_1_1.svg",
           "imgpc_max_width": 65,
-          "imgmob": "shopify:\/\/shop_images\/Agregar_un_titulo_1_1.svg",
           "imgmob_max_width": 100,
           "linkimg": "",
           "mostrar_bar_info_shipping": true,
@@ -172,7 +169,6 @@
             "type": "text",
             "settings": {
               "mostrar_logotipo": true,
-              "logotipo_footer": "shopify:\/\/shop_images\/Logo_Marblacks_V2.svg",
               "logo_max_width_footer": 190,
               "title": "ATENCIÓN AL CLIENTE",
               "content": "<p><strong>E-mail: <\/strong>Soporte@marblacks.com.co<br\/><strong>WhatsApp:<\/strong> +57 (317) 218 7398<\/p>"
@@ -232,8 +228,6 @@
           "bbea030d-de91-4721-9ea1-9660f647bbd7": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Contra_Entrega_Marblacks.svg",
-              "mobile_image": "shopify:\/\/shop_images\/Contra_Entrega_Marblacks.svg",
               "show_overlay": false,
               "overlay_opacity": 0,
               "text_color": "#ffffff",
@@ -558,7 +552,6 @@
       "16494890143053ae61": {
         "type": "image-with-text",
         "settings": {
-          "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_6.svg",
           "image_position": "left",
           "image_width": 55,
           "title": "Un poco de nosotros",
@@ -637,7 +630,6 @@
           "1649913261818592e3-0": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/1.svg",
               "show_overlay": false,
               "overlay_opacity": 50,
               "stretch_image": false,
@@ -656,7 +648,6 @@
           "1649913261818592e3-1": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/2.svg",
               "show_overlay": false,
               "overlay_opacity": 50,
               "stretch_image": false,
@@ -675,7 +666,6 @@
           "1649913261818592e3-2": {
             "type": "item",
             "settings": {
-              "image": "shopify:\/\/shop_images\/3.svg",
               "show_overlay": false,
               "overlay_opacity": 50,
               "stretch_image": false,
@@ -755,39 +745,7 @@
       "16153541158fc73818",
       "16494890143053ae61",
       "1649913264519d35a7"
-    ],
-    "blocks": {
-      "14159691304313693114": {
-        "type": "shopify:\/\/apps\/pixel-conversions-api-facebook\/blocks\/app-embed\/e244883f-9001-4b7d-b3e2-a64012fd8879",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "2965712708760319418": {
-        "type": "shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "4214657528271059384": {
-        "type": "shopify:\/\/apps\/a2reviews-product-reviews\/blocks\/app-embed\/6a88647f-451d-4142-88de-9df2dab10243",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "13669795325273674392": {
-        "type": "shopify:\/\/apps\/releasit-cod-form-upsells\/blocks\/app-embed\/72faf214-4174-4fec-886b-0d0e8d3af9a2",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Metal": {
